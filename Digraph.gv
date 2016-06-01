@@ -1,0 +1,12 @@
+strict digraph {
+	subgraph {
+		graph [rank=same]
+		3 [color="#333333" shape=circle style=bold]
+	}
+	graph [ordering=out]
+	edge [color=DarkCyan]
+	node [color="#333333" shape=circle]
+	"3L" [style=invis]
+		3 -> "3L" [style=invis]
+		3 -> 9
+}
