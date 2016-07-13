@@ -1,3 +1,11 @@
+# 
+# Authors: Sri Harsha Arangi
+#          Venkata Krishna Annam
+#          Abinash Patra
+#
+# It shows the AVL tree operations graphically.
+#
+
 import wx
 import wx.xrc
 import random
